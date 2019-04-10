@@ -1,0 +1,26 @@
+<nav class="navigation">
+<link rel="stylesheet" type="text/css" href="{{ "css/header.css" | relURL}}" />
+	<section class="container">
+		<a class="navigation-title" href="{{ .Site.BaseURL | absLangURL }}">
+			{{ .Site.Title }}
+		</a>
+		<ul class="navigation-list" id="nav-list">
+			{{ with .Site.Menus.main }}
+				{{ range sort . }}
+					<li class="navigation-item">
+						<a class="navigation-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+					</li>
+				{{ end }}
+			{{ end }}
+		</ul>
+		<ul class="navigation-list" id="nav-sublist">
+			{{ with .Site.Menus.services }}
+				{{ range sort . }}
+					<li class="navigation-item">
+						<a class="navigation-link" id="nav-sublink" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+					</li>
+				{{ end }}
+			{{ end }}
+		</ul>
+	</section>
+</nav>

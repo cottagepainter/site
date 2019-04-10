@@ -1,0 +1,96 @@
++++
+title = "References"
+slug = "references"
++++
+
+[cols="<20,<14,<66a",options="header",frame=all]
+|===
+^|Client ^|Island ^|Work Description
+
+|Bert & Sarah Liverance |Wahsoune |
+* Exterior repaint of south wall on the main cottage (2016)
+
+|Carolyn Patterson |Hideaway |
+* Exterior repaint of a sleeping cabin (2016)
+* Interior repaint of same sleeping cabin (2017)
+
+|Christine Hobden |Wahsoune |
+* Exterior repaint of cottage, woodshed, and workshop (2017)
+
+|David & Joanne Browne |Cockburn |
+* Exterior repaint of 8 buildings
+** Main cottage (2018)
+** All sleeping cabins (2017/2018)
+** Boathouse (2017)
+* Interior trim repaint on windows of all sleeping cabins (2018)
+
+|David & Susie O'Kell |Perdue |
+* Exterior repaint of some fascia boards on the main cottage (2018)
+
+|Dennis Hauck |Bowering |
+* I was hired as a subcontractor by Dennis (2016-2018)
+* Exterior repaint of his front-porch area of main cabin (2018)
+
+|Frances Wardlaw |Sans Souci |
+* Exterior repaint of all fascia boards on main cottage (2017)
+
+|George & Cathy Webster |Track |
+* Exterior repaint of main cottage (2018)
+* Interior repaint of main cottage living room (2018)
+
+|Ian Carmichael |Sarah |
+* Exterior repaint of all buildings (2016)
+** Main cottage
+** Sleeping Cabins
+** Boathouse
+
+|Jeff Callahan |B427 |
+* I was hired as a subcontractor by Jeff (2018) 
+
+|Kate Gibson |Winegarden |
+* Exterior repaint of trim (2016)
+** Boathouse
+** Woodshed
+** Sleeping Cabin
+* Repaint and partial restoration of some exterior doors (2016)
+
+|Mark & Elizabeth Smith |Barnicke |
+* Exterior repaint of main sleeping cabin (2018)
+
+|Martha Seagram |Perdue |
+* Exterior repaint of badly weathered walls on main cottage and boathouse (2018)
+
+|Maryann Gaskin |Consolation |
+* Exterior repaint of south-wall on main cottage (2018)
+
+|Nancy Davis |Sans Souci |
+* Exterior repaint of back side of main cottage and front wall of sleeping cabin (2017)
+
+|Peter & Jackie Cambell |Wahsoune |
+* Exterior repaint of all fascia boards and some windows on main cottage (2017)
+
+|Ray Miller |Black Bass |
+* Exterior repaint of all buildings (2018)
+** Main cottage
+** Sleeping Cabins
+** Boathouse
+
+|Stephen & Julie Callahan |B427 |
+* Exterior repaint of west-wall on the main cottage (2018)
+
+|The Phillips Family |Totten |
+* Exterior repaint of south-west wall on the main cottage and the back of the boathouse (2018)
+
+|Tim Purkiss |Windy |
+* Interior repaint of sleeping areas (2017)
+* Interior staining of replacement boards in living room to match existing look (2018)
+* Weather-proofing of newly constructed deck (2018)
+
+|Wayne Jefferies |Doll |
+* Exterior repaint of all buildings (2018)
+** Main cottage
+** Sleeping cabins
+** Boathouse
+** Workshop
+
+|===

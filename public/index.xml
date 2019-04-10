@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cottage Painter</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Cottage Painter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 15:07:34 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exterior Painting</title>
+      <link>http://example.org/services/exterior-painting/</link>
+      <pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate>
+      
+      <guid>http://example.org/services/exterior-painting/</guid>
+      <description>Preparation Application  Spraying  Overspray  What is Overspray? Controlling Overspray  Backbrushing  Is it always necessary?      Preparation No paint will perform correctly unless the proper steps are taken to prepare the surface before application. This process is called prep.
+ All surfaces are washed with a high-pressure (~3000psi) washer and a rotating nozzle for maximum agitation All loose paint is scraped and removed.</description>
+    </item>
+    
+    <item>
+      <title>Gutter Cleaning</title>
+      <link>http://example.org/services/gutter-cleaning/</link>
+      <pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate>
+      
+      <guid>http://example.org/services/gutter-cleaning/</guid>
+      <description>Using a high-pressure pressure washer, an extension wand, and a special attachment, i am able to wash-out your eavestroughs without ever having to climb a ladder. Fast, efficient, and highly effective.
+This service is offered at a discounted price to anyone that hires me for exterior painting</description>
+    </item>
+    
+    <item>
+      <title>Interior Painting</title>
+      <link>http://example.org/services/interior-painting/</link>
+      <pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate>
+      
+      <guid>http://example.org/services/interior-painting/</guid>
+      <description>I offer high-quality,
+ Preparation Application  Preparation No paint will perform correctly unless the proper steps are taken to prepare the surface before application. This process is called prep. Interior-painting prep is a little more involved then its exterior counterpart due to the fact that interior surfaces are generally much smoother then exterior ones, thus a larger set of imperfections in the surface must be dealt with to avoid them becoming accentuated by a fresh coat of paint.</description>
+    </item>
+    
+    <item>
+      <title>About Myself</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>My name is Currie Carmichael, I&amp;rsquo;m a professional painter who has been serving the SSCA for the past 4 years. I specialize in exterior-repaints of wood and composite-sided houses and buildings. I have been a cottager in the area my entire life and am prepared, equipped, and ready to handle any project on the Bay.
+My season generally lasts from mid-May until September. I primarily focus on exterior-work during this time.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>http://example.org/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/references/</guid>
+      <description>Client Island Work Description     Bert &amp;amp; Sarah Liverance
+ Wahsoune
+   Exterior repaint of south wall on the main cottage (2016)
+     Carolyn Patterson
+ Hideaway
+   Exterior repaint of a sleeping cabin (2016)
+  Interior repaint of same sleeping cabin (2017)
+     Christine Hobden
+ Wahsoune
+   Exterior repaint of cottage, woodshed, and workshop (2017)</description>
+    </item>
+    
+  </channel>
+</rss>

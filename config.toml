@@ -1,0 +1,71 @@
+# options
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cottage Painter"
+theme = "cottagepainter"
+paginate = 20
+canonifyurls = false
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+disableKinds = ["taxonomy", "taxonomyTerm"] 
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Currie Carmichael"
+    info = "Professional Painter serving the SSCA"
+    description = "Cottage Painter"
+    keywords = "service,ssca,painter,business,painting"
+    avatarurl = "images/avatar.jpg"
+    footercontent = ""
+
+    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "/img/favicon-32x32.png"
+
+    rtl = false
+    math = true
+    custom_css = ["css/custom.css"]
+
+# social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/cottagepainter/"
+[[params.social]]
+    name = "Facebook"
+    icon = "fab fa-facebook"
+    weight = 2
+    url = "https://facebook.com/cottagepainter/"
+
+# top menu
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Services"
+    weight = 2
+    url = "/services/"
+[[menu.main]]
+    name = "References"
+    weight = 3
+    url = "/references/"
+[[menu.main]]
+    name = "Contact"
+    weight = 4
+    url  = "/contact/"
+
+# service menu
+[[menu.services]]
+	name = "Exterior Painting"
+	weight = 1
+	url = "/services/exterior-painting"
+[[menu.services]]
+	name = "Interior Painting"
+	weight = 2
+	url = "/services/interior-painting"
+[[menu.services]]
+	name = "Gutter Cleaning"
+	weight = 3
+	url = "/services/gutter-cleaning"

@@ -1,0 +1,7 @@
+<ul class="menu">
+	{{ with .Site.Menus.services }}
+		{{ range sort . }}
+			<li><a class="service-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+		{{ end }}
+	{{ end }}
+</ul>
