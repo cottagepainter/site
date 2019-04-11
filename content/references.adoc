@@ -3,7 +3,7 @@ title = "References"
 slug = "references"
 +++
 
-[cols="<20,<14,<66a",options="header",frame=all]
+[cols="<20,<14,<66a",options="header",frame=all,width=100%]
 |===
 ^|Client ^|Island ^|Work Description
 

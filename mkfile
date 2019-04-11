@@ -1,0 +1,2 @@
+all:V:
+	cottagepainter deploy

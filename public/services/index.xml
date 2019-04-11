@@ -1,45 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Services on Cottage Painter</title>
-    <link>http://example.org/services/</link>
-    <description>Recent content in Services on Cottage Painter</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 15:07:34 -0400</lastBuildDate>
-    
-	<atom:link href="http://example.org/services/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Exterior Painting</title>
-      <link>http://example.org/services/exterior-painting/</link>
-      <pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate>
-      
-      <guid>http://example.org/services/exterior-painting/</guid>
-      <description>Preparation Application  Spraying  Overspray  What is Overspray? Controlling Overspray  Backbrushing  Is it always necessary?      Preparation No paint will perform correctly unless the proper steps are taken to prepare the surface before application. This process is called prep.
- All surfaces are washed with a high-pressure (~3000psi) washer and a rotating nozzle for maximum agitation All loose paint is scraped and removed.</description>
-    </item>
-    
-    <item>
-      <title>Gutter Cleaning</title>
-      <link>http://example.org/services/gutter-cleaning/</link>
-      <pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate>
-      
-      <guid>http://example.org/services/gutter-cleaning/</guid>
-      <description>Using a high-pressure pressure washer, an extension wand, and a special attachment, i am able to wash-out your eavestroughs without ever having to climb a ladder. Fast, efficient, and highly effective.
-This service is offered at a discounted price to anyone that hires me for exterior painting</description>
-    </item>
-    
-    <item>
-      <title>Interior Painting</title>
-      <link>http://example.org/services/interior-painting/</link>
-      <pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate>
-      
-      <guid>http://example.org/services/interior-painting/</guid>
-      <description>I offer high-quality,
- Preparation Application  Preparation No paint will perform correctly unless the proper steps are taken to prepare the surface before application. This process is called prep. Interior-painting prep is a little more involved then its exterior counterpart due to the fact that interior surfaces are generally much smoother then exterior ones, thus a larger set of imperfections in the surface must be dealt with to avoid them becoming accentuated by a fresh coat of paint.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on Cottage Painter</title><link>https://cottagepainter.github.io/services/</link><description>Recent content in Services on Cottage Painter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 15:07:34 -0400</lastBuildDate><atom:link href="https://cottagepainter.github.io/services/index.xml" rel="self" type="application/rss+xml"/><item><title>Exterior Painting</title><link>https://cottagepainter.github.io/services/exterior-painting/</link><pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate><guid>https://cottagepainter.github.io/services/exterior-painting/</guid><description>Preparation Application Spraying Overspray What is Overspray? Controlling Overspray Backbrushing Is it always necessary? Preparation No paint will perform correctly unless the proper steps are taken to prepare the surface before application. This process is called prep.
+All surfaces are washed with a high-pressure (~3000psi) washer and a rotating nozzle for maximum agitation All loose paint is scraped and removed.</description></item><item><title>Gutter Cleaning</title><link>https://cottagepainter.github.io/services/gutter-cleaning/</link><pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate><guid>https://cottagepainter.github.io/services/gutter-cleaning/</guid><description>Using a high-pressure pressure washer, an extension wand, and a special attachment, i am able to wash-out your eavestroughs without ever having to climb a ladder. Fast, efficient, and highly effective.
+This service is offered at a discounted price to anyone that hires me for exterior painting</description></item><item><title>Interior Painting</title><link>https://cottagepainter.github.io/services/interior-painting/</link><pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate><guid>https://cottagepainter.github.io/services/interior-painting/</guid><description>I offer high-quality,
+Preparation Application Preparation No paint will perform correctly unless the proper steps are taken to prepare the surface before application. This process is called prep. Interior-painting prep is a little more involved then its exterior counterpart due to the fact that interior surfaces are generally much smoother then exterior ones, thus a larger set of imperfections in the surface must be dealt with to avoid them becoming accentuated by a fresh coat of paint.</description></item></channel></rss>

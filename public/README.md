@@ -1,1 +1,0 @@
-# cottagepainter.github.io
