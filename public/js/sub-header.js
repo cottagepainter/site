@@ -1,1 +1,0 @@
-function toggleSublistVisibility(){var i=document.getElementById("nav-sublist");return"services"==window.location.pathname.split("/")[1]?i.style.display="block":i.style.display="none",!0}toggleSublistVisibility();

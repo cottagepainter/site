@@ -1,0 +1,10 @@
+js=`{echo *.js}
+
+../../static/js/main.js:Q: $js mkfile
+	cat $js | js minify >$target
+
+%.js:Q:
+	true
+
+clean:VQ:
+	rm main

@@ -1,0 +1,16 @@
+<nav class="sidebar-nav" id="sidebar-nav-main">
+	<div id="sidebar-nav-top"></div>
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+        <a class="sidebar-nav-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+		<br>
+		{{ if (eq .Name "Services") }}
+			<div id="sidebar-nav-sub">
+			{{ range $currentPage.Site.Menus.services }}
+        		<a class="sidebar-sub-item" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+				<br>
+			{{ end }}
+			</div>
+		{{ end }}
+    {{ end }}
+</nav>

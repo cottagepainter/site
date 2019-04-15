@@ -1,0 +1,8 @@
+scss=`{echo *.scss}
+
+../../static/css/custom.css:Q: $scss mkfile
+	cat $scss | scss compile | scss minify >$target
+
+%.scss:Q:
+	true
+

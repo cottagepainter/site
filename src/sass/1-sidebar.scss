@@ -1,0 +1,35 @@
+.sidebar-nav {
+	display: none;
+	background-color: $bg-color;
+	border-right: 0.3rem solid $fg-color;
+	float: left;
+	height: 100%;
+	margin: 0rem;
+	padding: 0rem 1rem 0rem 2rem;
+	position: absolute;
+	
+	#sidebar-nav-top {
+		position: relative;
+		height: 1%;
+	}
+
+	.sidebar-nav-item {
+	    display: inline;
+	    font-size: $header-link-font-size;
+	    color: $fg-color;
+	    font-weight: $header-font-weight;
+	}
+
+	#sidebar-nav-sub {
+		display: inline;
+	}
+
+	.sidebar-sub-item {
+	    display: inline;
+	    font-size: 1.3rem;
+	    color: $fg-color;
+	    font-weight: $header-font-weight;
+		margin-left: 2rem;
+	}
+}
+
