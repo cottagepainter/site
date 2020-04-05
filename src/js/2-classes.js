@@ -18,28 +18,36 @@ class Elements {
 class Menu extends Element {
 	constructor(id) {
 		super(id);
+	}
 
-		this.links    = Array.from(this.html.querySelectorAll("a"));
-		this.hrefs    = this.links.map(x => { return Pathname.normalize(x.pathname) });
-		this.position = this.hrefs.findIndex(x => { return $g.location.startsWith(x) });
+	get links() {
+		return Array.from(this.html.querySelectorAll("a"))
+	}
+
+	get hrefs() {
+		return this.links.map(x => { return Pathname.normalize(x.pathname) })
+	}
+
+	get position() {
+		return this.hrefs.findIndex(x => { return $g.location.startsWith(x) })
 	}
 
 	get length() {
-		return this.links.length;
+		return this.links.length
 	}
 
 	get current() {
-		return this.links[this.position];
+		return this.links[this.position]
 	}
 
 	get next() {
 		let x = this.links[this.position + 1];
-		return (x ? x : this.links[this.length-1]);
+		return (x ? x : this.links[this.length-1])
 	}
 
 	get previous() {
 		let x = this.links[this.position - 1];
-		return (x ? x : Pathname.dirname(this.hrefs[0]));
+		return (x ? x : Pathname.dirname(this.hrefs[0]))
 	}
 
 	handleEvent(e) {
@@ -50,5 +58,7 @@ class Menu extends Element {
 			if(x.down) window.location.href = this.next;
 			break
 		}
+
+		
 	}
 }

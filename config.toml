@@ -13,17 +13,18 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Currie Carmichael"
-    info = "Professional Painter serving the SSCA"
+    info = "Professional Painter"
     description = "Cottage Painter"
     keywords = "service,ssca,painter,business,painting"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/CottagePainter300.jpg"
     footercontent = ""
 
-    favicon_16 = "/img/favicon-16x16.png"
-    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/images/CPFavicon16.png"
+    favicon_32 = "/images/CPFavicon32.png"
 
     rtl = false
     math = true
+    inverted = false 
     custom_css = ["css/custom.css"]
 
 # social links
@@ -32,11 +33,6 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-github fa-2x"
     weight = 1
     url = "https://github.com/cottagepainter/"
-[[params.social]]
-    name = "Facebook"
-    icon = "fab fa-facebook"
-    weight = 2
-    url = "https://facebook.com/cottagepainter/"
 
 # top menu
 [[menu.main]]
@@ -55,6 +51,10 @@ disqusShortname = "yourdiscussshortname"
     name = "Contact"
     weight = 4
     url  = "/contact/"
+[[menu.main]]
+    name = "Resources"
+    weight = 5
+    url  = "/resources/"
 
 # service menu
 [[menu.services]]
@@ -69,3 +69,21 @@ disqusShortname = "yourdiscussshortname"
 	name = "Gutter Cleaning"
 	weight = 3
 	url = "/services/gutter-cleaning"
+
+# resources menu
+[[menu.resources]]
+	name = "Equipment"
+	weight = 1
+	url = "/resources/equipment"
+[[menu.resources]]
+	name = "Spraying"
+	weight = 2
+	url = "/resources/spraying"
+[[menu.resources]]
+	name = "Paint"
+	weight = 3
+	url = "/resources/paint"
+[[menu.resources]]
+	name = "Glossary"
+	weight = 4
+	url = "/resources/glossary"

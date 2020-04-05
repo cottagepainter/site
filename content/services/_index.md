@@ -2,7 +2,5 @@
 title = "Services"
 slug = "services"
 type = "section"
-layout = "services"
+menu = "services"
 +++
-
-How are you

@@ -3,9 +3,14 @@ title = "References"
 slug = "references"
 +++
 
-[cols="<20,<14,<66a",options="header",frame=all,width=100%]
+:prewrap!:
+
+[cols="<20,^14,<.^66a",options="header",width=100%]
 |===
-^|Client ^|Island ^|Work Description
+^|Client ^|Island ^|Description
+
+|Alex Scott |Iron City |
+* Complete exterior trim repaint (2019)
 
 |Bert & Sarah Liverance |Wahsoune |
 * Exterior repaint of south wall on the main cottage (2016)
@@ -13,6 +18,9 @@ slug = "references"
 |Carolyn Patterson |Hideaway |
 * Exterior repaint of a sleeping cabin (2016)
 * Interior repaint of same sleeping cabin (2017)
+
+|Cathy Parks |Navy's Acre |
+* Exterior fascia repaint and touchup (2019)
 
 |Christine Hobden |Wahsoune |
 * Exterior repaint of cottage, woodshed, and workshop (2017)
@@ -28,8 +36,14 @@ slug = "references"
 * Exterior repaint of some fascia boards on the main cottage (2018)
 
 |Dennis Hauck |Bowering |
-* I was hired as a subcontractor by Dennis (2016-2018)
+* I was hired as a subcontractor by dennis (2016-2018)
 * Exterior repaint of his front-porch area of main cabin (2018)
+
+|Elizabeth Austin |High Rock |
+* Exterior repaint of main cottage, bunkie, and boathouse south-facing wall (2019)
+
+|Frank Coyle |Iron City |
+* Exterior repaint of half the main cottage (2019)
 
 |Frances Wardlaw |Sans Souci |
 * Exterior repaint of all fascia boards on main cottage (2017)
@@ -41,18 +55,30 @@ slug = "references"
 |Ian Carmichael |Sarah |
 * Exterior repaint of all buildings (2016)
 ** Main cottage
-** Sleeping Cabins
+** Sleeping cabins
 ** Boathouse
 
 |Jeff Callahan |B427 |
-* I was hired as a subcontractor by Jeff (2018) 
+* Hired me as a subcontractor (2018)
+* Boat repaint (2019)
+
+|John Eakin |Treasure |
+* Painted a door (2019)
+* Weather-Proofed decks (2019)
 
 |Kate Gibson |Winegarden |
 * Exterior repaint of trim (2016)
 ** Boathouse
 ** Woodshed
-** Sleeping Cabin
+** Sleeping cabin
 * Repaint and partial restoration of some exterior doors (2016)
+
+|Mark Hyland |Emma |
+* Complete exterior repaint (2019)
+** Main cottage
+** A-Frame bunkie
+** Tool and laundry shed
+** Screened-In-Porch
 
 |Mark & Elizabeth Smith |Barnicke |
 * Exterior repaint of main sleeping cabin (2018)
@@ -69,11 +95,26 @@ slug = "references"
 |Peter & Jackie Cambell |Wahsoune |
 * Exterior repaint of all fascia boards and some windows on main cottage (2017)
 
+|Peter & Jackie Storms |Stormy |
+* Exterior repaint (2019)
+** North and half of south side of main building
+
 |Ray Miller |Black Bass |
 * Exterior repaint of all buildings (2018)
 ** Main cottage
-** Sleeping Cabins
+** Sleeping cabins
 ** Boathouse
+
+|Robert & Melanie Chapman |Sanger |
+* Exterior repaint of all buildings (2019)
+** Main cottage
+** Both sleeping cabins
+
+|Roger Matthews |Straus |
+* Exterior repaint of all buildings (2019)
+** Main cottage
+** Sleeping cabin
+** Sheds
 
 |Stephen & Julie Callahan |B427 |
 * Exterior repaint of west-wall on the main cottage (2018)
@@ -81,10 +122,13 @@ slug = "references"
 |The Phillips Family |Totten |
 * Exterior repaint of south-west wall on the main cottage and the back of the boathouse (2018)
 
+|Tony Melles |Echo |
+* Exterior repaint of main cottage, bunkie, and boathouse trim (2019)
+
 |Tim Purkiss |Windy |
 * Interior repaint of sleeping areas (2017)
 * Interior staining of replacement boards in living room to match existing look (2018)
-* Weather-proofing of newly constructed deck (2018)
+* Weather-Proofing of newly constructed deck (2018)
 
 |Wayne Jefferies |Doll |
 * Exterior repaint of all buildings (2018)
@@ -94,3 +138,8 @@ slug = "references"
 ** Workshop
 
 |===
+{nbsp} +
+
+---
+
+Updated: {{< now >}}

@@ -1,16 +1,16 @@
 .sidebar-nav {
-	display: none;
+	display: inline-block;
+	overflow: auto;
 	background-color: $bg-color;
 	border-right: 0.3rem solid $fg-color;
 	float: left;
-	height: 100%;
 	margin: 0rem;
 	padding: 0rem 1rem 0rem 2rem;
 	position: absolute;
 	
 	#sidebar-nav-top {
 		position: relative;
-		height: 1%;
+		height: 25%;
 	}
 
 	.sidebar-nav-item {
@@ -30,6 +30,10 @@
 	    color: $fg-color;
 	    font-weight: $header-font-weight;
 		margin-left: 2rem;
+	}
+
+	@media only screen and (max-width : 768px) {
+		display: inline;
 	}
 }
 

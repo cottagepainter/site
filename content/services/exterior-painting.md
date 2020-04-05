@@ -1,87 +1,92 @@
 ---
 title: "Exterior Painting"
 date: 2019-04-01T15:07:34-04:00
+menu: "services"
 ---
 
-* [Preparation](#preparation)
-* [Application](#application)
-	* [Spraying](#spraying)
-		* [Overspray](#overspray)
-			* [What is Overspray?](#what is overspray?)
-			* [Controlling Overspray](#controlling overspray)
-		* [Backbrushing](#backbrushing)
-			* [Is it always necessary?](#is it always necessary?)
-	
-<h2 id="preparation">Preparation</h2>
+I offer **modern**, **efficient**, **correct**, **large-scale** exterior painting.
+*Modern*; I use the most modern equipment and tools as the basis
+of my process. *Efficient*; my process is effective and practiced.
+*Correct*; my process is warranty-valid according to the paint
+manufacturer. *Large-scale*; my process can handle any size job on the Bay.
 
-No paint will perform correctly unless the proper steps are taken to prepare the surface before
-application. This process is called **prep**.
+{{< headerlink level="2" id="process" parent="top-of-page" title="Process" >}}
 
-1. All surfaces are **washed** with a high-pressure (~3000psi) washer and a rotating nozzle for maximum agitation
-2. All loose paint is **scraped** and removed. 
-3. All rough surfaces are **sanded**.
-4. All cracks and seams are **caulked**
-5. All surfaces requiring primer are **primed**.
+1. [Estimation](#estimation)
+2. [Washing](#washing)
+3. [Preparation](#preparation)
+4. [Application](#application)
+5. [Cleanup](#cleanup)
 
-<h2 id="application">Application</h2>
+{{< headerlink level="3" id="estimation" parent="process" title="Estimation" >}}
 
-For the body of the house, I use an 
+All services I provide are offered with a **firm**, **quoted**, **transparent** price. 
 
-<h3 id="spraying">Spraying</h3>
+My estimation process is very simple. I require two numbers:
 
-**Spraying** is a basic method of paint-application for the modern
-painter, forming a trinity with the traditional methods of brushing and
-rolling.
+1. The **days** it will take to complete the job
+2. The **gallons of paint** required
 
-The main benefit of spraying is speed. A two-story house that used to
-take 10 days with a brush and roller can now be sprayed in 1 or 2 days
-by just one person. An incredible productivity boost!
+I don't do any fancy measurements to figure out these numbers, just my own gut-feeling tempered with experience.
+Once I have them, the quoted price is then derived using the following parameters:
 
-Spraying also leaves the finest finish. Anytime paint is applied with
-a brush, lap marks, caused by the bristles dragging out the paint, are
-inevitably left behind and visible to the critical eye. Paint applied by
-rolling leaves behind stipiling, caused by the indent of the fibers in
-the nap.  Spraying, on the otherhand, leaves behind no visible trace of
-application. This makes spraying especially ideal when painting smooth
-surfaces such as trim or doors.
+* Boat charge (by day)
+* Cost of paint (by gallon)
+* Equipment charge (by gallon)
+* Labour charge (by day)
 
-Spraying is also ideal when dealing with non-flat surfaces like
-furniture. Painting these with a brush or roller is extremely error
-prone and can take a lot of work to get right. A piece of furniture that
-takes 2 hours to brush can be sprayed in under 5 minutes!
+Since every job is different, extra charges might be required. However, any such charges will always be made visible on the
+estimate.
 
-<h4 id="overspray">Overspray</h4>
+If the customer agrees to the estimate, a date is then scheduled to begin the painting
+process.
 
-<h5 id="what is overspray?">What is Overspray?</h5>
+All estimates are generated and sent using the [Invoice Simple](https://www.invoicesimple.com/) app.
 
-**Overspray** is any paint applied with a sprayer that __misses__ the intended surface. Care
-must always be taken to prevent overspray from getting on the wrong surface (like decks, windows, ...)
+{{< headerlink level="3" id="washing" parent="process" title="Washing" >}}
 
-<h5 id="controlling overspray">Controlling Overspray</h5>
+The first step in the painting process, and arguably the most
+important, is making sure that all surfaces are clean. Contaminants
+on the surface (such as dirt, dust, mold, and mildew) directly
+affect the ability of the paint to bond. The strength of the bond between surface and paint
+is what determines the paint's longevity.
 
-There are two ways to control overspray: **catching** and
-**covering**.
+I wash all surfaces with a high-pressure (~3000psi) pressure washer
+and a [rotating nozzle](https://www.youtube.com/watch?v=fZJfXY4LMcA) to maximize agitation. I don't use chemicals.
 
-**Catching** is absorbing the overspray at the gun. This is done by using
-cardboard shields; using one hand to spray and the other hand, holding the
-shield, to __catch__.
+The washing is typically scheduled a day or two before the main painting process. This is because the
+surface must be allowed to completely dry before any more work can be done. The scheduling is
+very flexible as the process, usually, doesn't take very long to complete.
 
-**Covering** is absorbing the overspray at the surface you want to protect. This
-is done by draping surfaces with drop-clothes, masking them with
-paper, or sealing them with tape.
+{{< headerlink level="3" id="preparation" parent="process" title="Preparation" >}}
 
-<h4 id="backbrushing">Backbrushing</h4>
+Once the surface is washed and dry, it's time to **prep** the surface:
 
-Paint applied with a sprayer exists as a rectangular layer on-top of the
-surface. When dealing with highly porous surfaces like cedar-siding, it
-cannot be expected that the paint will penetrate into the tiny holes
-and grooves of the surface. Thus the sprayed-paint must be __pushed__
-into those pores to guarantee proper adhesion. This process is called
-**backbrushing** and is done with either a brush or a roller.
+* All loose paint is **scraped**
+* All cracks, gaps, and seams are **caulked**
+* All surfaces requiring primer are **primed**
 
-<h5 id="is it always necessary?">Is it always necessary?</h5>
+**Scraping** is essential because any paint applied to loose paint is not binding to the surface at all, but to the
+loose paint. Thus when the loose paint falls off, so does your paint job.
 
-**No**. If the surface is smooth, then there is no texture in the
-surface to push the paint into. Backbrushing in this case would both
-ruin your finish and waste your time.
+**Caulking** has many benefits. Personally I treat it as an aesthetic process. Yes it can help insulate the building,
+but since I'm in the business of painting cottages, buildings which
+only see use in the summer, insulation is, generally, not a concern. Caulking
+gaps and seams in the building makes it look more integrated and 'together'.
 
+**Priming** is part of the process of preparing the surface to accept the paint. For exterior-painting,
+I rarely need to prime since I am normally using [solid-color stains](../../resources/paint#layers), which generally
+don't require a primer to bond well to the surface.
+
+{{< headerlink level="3" id="application" parent="process" title="Application" >}}
+
+The body of the hose is [sprayed](../../resources/spraying). The
+trim, if to be painted a different color, is generally brushed or rolled,
+otherwise it will be sprayed. The
+[soffit](https://en.wikipedia.org/wiki/Soffit) is sprayed. Any doors
+to be painted are sprayed. The [fascia](https://en.wikipedia.org/wiki/Fascia_(architecture)) is always brushed or rolled.
+
+{{< headerlink level="3" id="cleanup" parent="process" title="Cleanup" >}}
+
+Once the painting is complete, I remove all garbage created during the process, pack up my equipment,
+and generally try to leave the place better looking then when I arrived.

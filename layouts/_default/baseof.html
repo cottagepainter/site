@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="{{ .Site.Language.Lang }}">
 
   <head>
     <meta charset="utf-8">
@@ -73,7 +73,6 @@
 <body class="{{ if .Site.Params.rtl }}rtl{{ end }} {{ if .Site.Params.inverted }}inverted{{ end }}">
     <main class="wrapper">
         {{ partial "header.html" . }}
-		{{ partial "sidebar.html" . }}
         
         <div class="content">
             {{ block "content" . }}{{ end }}

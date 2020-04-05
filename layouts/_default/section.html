@@ -1,14 +1,23 @@
 {{ define "title" }}
-  {{ .Title }} · {{ .Site.Title }}
+    {{ .Title }} · {{ .Site.Title }}
 {{ end }}
 {{ define "content" }}
-<section class="container page">
-	<article>
-		<header>
-		<h1>{{ .Title }}</h1>
-	</header>
-	
-	{{ .Content }}
-</article>
-</section>
+    <section class="container page">
+        <article>
+            <header>
+                <h1>{{ .Title }}</h1>
+            </header>
+            {{ if (.Params.menu) }}
+                <ul class="menu">
+                    {{ with (index .Site.Menus (.Params.menu)) }}
+                        {{ range sort . }} {{ if .Weight }}
+                            <li><a class="section-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+                        {{ end }} {{ end }}
+                    {{ end }}
+                </ul>
+			{{ else }}
+				{{ errorf "Section %q has not declared its menu" .Section }}
+            {{ end }}
+        </article>
+    </section>
 {{ end }}

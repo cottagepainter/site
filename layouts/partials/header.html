@@ -1,27 +1,10 @@
-<nav class="navigation">
-  <section class="container">
-    <a class="navigation-title" href="{{ .Site.BaseURL | absLangURL }}">
-      {{ .Site.Title }}
-    </a>
-    <input type="checkbox" id="menu-toggle" />
-    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
-    <ul class="navigation-list" id="nav-list">
-      {{ with .Site.Menus.main }}
-        {{ range sort . }}
-          <li class="navigation-item">
-            <a class="navigation-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-          </li>
-        {{ end }}
-      {{ end }}
-    </ul>
-    <ul class="navigation-list" id="nav-sublist">
-      {{ with .Site.Menus.services }}
-        {{ range sort . }}
-          <li class="navigation-item">
-            <a class="navigation-link" id="nav-sublink" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-          </li>
-        {{ end }}
-      {{ end }}
-    </ul>
-  </section>
+<nav class="navigation" id="top-of-page">
+    <section class="container">
+		<div id="navigation-mobile">
+			{{ partial "navigation/mobile.html" . }}
+		</div>
+		<div id="navigation-desktop">
+			{{ partial "navigation/desktop.html" . }}
+		</div>
+    </section>
 </nav>
