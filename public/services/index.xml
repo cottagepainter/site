@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on Cottage Painter</title><link>https://cottagepainter.github.io/services/</link><description>Recent content in Services on Cottage Painter</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 15:07:34 -0400</lastBuildDate><atom:link href="https://cottagepainter.github.io/services/index.xml" rel="self" type="application/rss+xml"/><item><title>Exterior Painting</title><link>https://cottagepainter.github.io/services/exterior-painting/</link><pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate><guid>https://cottagepainter.github.io/services/exterior-painting/</guid><description>I offer modern, efficient, correct, large-scale exterior painting. Modern; I use the most modern equipment and tools as the basis of my process. Efficient; my process is effective and practiced. Correct; my process is warranty-valid according to the paint manufacturer. Large-scale; my process can handle any size job on the Bay.
-Process Estimation Washing Preparation Application Cleanup Estimation All services I provide are offered with a firm, quoted, transparent price.</description></item><item><title>Gutter Cleaning</title><link>https://cottagepainter.github.io/services/gutter-cleaning/</link><pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate><guid>https://cottagepainter.github.io/services/gutter-cleaning/</guid><description>Using a high-pressure pressure washer, an extension wand, and a special attachment, I am able to wash-out your eavestroughs without ever having to climb a ladder. Fast, efficient, and highly effective.
-This service is offered at a discounted price to anyone that hires me for exterior painting, since it can be done at the same time as the washing.</description></item><item><title>Interior Painting</title><link>https://cottagepainter.github.io/services/interior-painting/</link><pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate><guid>https://cottagepainter.github.io/services/interior-painting/</guid><description>I offer modern, efficient, correct, small-scale interior painting. Modern; I use the most modern equipment and tools as the basis of my process. Efficient; my process is effective and practiced. Correct; my process is warranty-valid according to the paint manufacturer. Small-scale; my process can handle small jobs (trim-repaints, bedrooms, &amp;hellip;).
-The Process Estimation Washing Preparation Application Cleanup Estimation All services I provide are offered with a firm, quoted, transparent price.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Cottage Painter</title>
+    <link>https://cottagepainter.github.io/services/</link>
+    <description>Recent content in Services on Cottage Painter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2019 15:07:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://cottagepainter.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exterior Painting</title>
+      <link>https://cottagepainter.github.io/services/exterior-painting/</link>
+      <pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate>
+      
+      <guid>https://cottagepainter.github.io/services/exterior-painting/</guid>
+      <description>I offer modern, efficient, correct, large-scale exterior painting. Modern; I use the most modern equipment and tools as the basis of my process. Efficient; my process is effective and practiced. Correct; my process is warranty-valid according to the paint manufacturer. Large-scale; my process can handle any size job on the Bay.
+Process     Estimation Washing Preparation Application Cleanup  Estimation    All services I provide are offered with a firm, quoted, transparent price.</description>
+    </item>
+    
+    <item>
+      <title>Gutter Cleaning</title>
+      <link>https://cottagepainter.github.io/services/gutter-cleaning/</link>
+      <pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate>
+      
+      <guid>https://cottagepainter.github.io/services/gutter-cleaning/</guid>
+      <description>Using a high-pressure pressure washer, an extension wand, and a special attachment, I am able to wash-out your eavestroughs without ever having to climb a ladder. Fast, efficient, and highly effective.
+This service is offered at a discounted price to anyone that hires me for exterior painting, since it can be done at the same time as the washing.</description>
+    </item>
+    
+    <item>
+      <title>Interior Painting</title>
+      <link>https://cottagepainter.github.io/services/interior-painting/</link>
+      <pubDate>Mon, 01 Apr 2019 15:07:34 -0400</pubDate>
+      
+      <guid>https://cottagepainter.github.io/services/interior-painting/</guid>
+      <description>I offer modern, efficient, correct, small-scale interior painting. Modern; I use the most modern equipment and tools as the basis of my process. Efficient; my process is effective and practiced. Correct; my process is warranty-valid according to the paint manufacturer. Small-scale; my process can handle small jobs (trim-repaints, bedrooms, &amp;hellip;).
+The Process     Estimation Washing Preparation Application Cleanup  Estimation    All services I provide are offered with a firm, quoted, transparent price.</description>
+    </item>
+    
+  </channel>
+</rss>

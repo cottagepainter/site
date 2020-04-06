@@ -1,0 +1,15 @@
+{{ if .IsNamedParams }}
+	<h{{ .Get "level" }} id="{{ .Get "id" }}">
+		{{ .Get "title" }}
+		<a href="#{{ .Get "parent" }}">
+			<i class="fas fa-caret-up"></i>
+		</a>
+	</h{{ .Get "level" }}>
+{{ else }}
+	<h{{ .Get 0 }} id="{{ .Get 1 }}">
+		{{ .Get 3 }}
+		<a href="#{{ .Get 2 }}">
+			<i class="fas fa-caret-up"></i>
+		</a>
+	</h{{ .Get 0 }}>
+{{ end }}

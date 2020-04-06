@@ -1,0 +1,27 @@
+<a class="navigation-title" href="{{ .Site.BaseURL | absLangURL }}">
+    {{ .Site.Title }}
+</a>
+<div id="nav-list">
+    <ul class="navigation-list">
+        {{ with .Site.Menus.main }}
+            {{ range sort . }}
+                <li class="navigation-item">
+                    <a class="navigation-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                </li>
+            {{ end }}
+        {{ end }}
+    </ul>
+</div>
+<div id="nav-sublist">
+	{{ if (.Params.menu) }}
+    	<ul class="navigation-list">
+            {{ with (index .Site.Menus (.Params.menu)) }}
+                {{ range sort . }} {{ if .Weight }}
+                	<li class="navigation-item">
+                    	<a class="navigation-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                	</li>
+                {{ end }} {{ end }}
+            {{ end }}
+    	</ul>
+	{{ end }}
+</div>

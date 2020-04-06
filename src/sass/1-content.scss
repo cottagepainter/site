@@ -1,0 +1,68 @@
+.content {
+	margin-top: 0rem;
+	text-align: justify;
+
+	.definition {
+		font-family: $code-font-family;
+		text-align: left;
+		padding-right: $tab;
+		padding-left: $tab;
+	}
+
+// 	#glossary-table {
+// 		// margin: 0 auto;
+// 		// width: 60%;
+// 		ul {
+// 			padding: 0;
+// 			list-style: none;
+// 			column-count: 1;
+// 			column-fill: balance;
+// 		}
+// 	}
+
+	ol {
+		li::marker {
+			font-family: $code-font-family;
+		}
+	}
+
+	table {
+		overflow: auto;
+
+		thead {
+			text-align: center;
+		}
+		td {
+			vertical-align: middle;
+		}
+		tbody {
+			text-align: left;
+			.halign-center {
+				text-align: center;
+			}
+			.valign-middle {
+				verticle-align: middle;
+			}
+		}
+	}
+
+	h2, h3, h4, h5, h6 {
+		a {
+			opacity: 0.5;
+			margin-left: 1.0rem;
+			color: $fg-color;
+		}
+	}
+
+	h2, h3, h4, h5 {
+		a {
+			font-size: 20px;
+		}
+	}
+
+	h6 {
+		a {
+			font-size: 18px;
+		}
+	}
+}
